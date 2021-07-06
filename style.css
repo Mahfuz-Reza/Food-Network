@@ -21,7 +21,6 @@ span{color: orange;}
 padding-top: 30px;}
 #s{color: #ffa500;}
 .link{
-    
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange, tomato);
@@ -56,4 +55,29 @@ padding-top: 30px;}
 }
 .s4{
     text-align: center;
+}
+.three2{
+    width: 30%;
+}
+#s5{
+    display: flex;
+    font-size: 20px;
+    color: rgb(243, 95, 95);
+}
+#more{
+    margin-top: 90px;
+    color: rgb(6, 172, 228);}
+footer{
+    text-align: center;
+    margin-top: 150px;
+    background-color: grey;
+    padding-top: 20px;
+     padding-bottom: 40px;}
+     #last{display: flex;
+    text-align: center;
+margin-top: 120px;}
+    
+     .s6{width: 32%;
+    box-shadow: 10px 10px 40px rgb(82, 79, 75);
+border-radius: 10px;
 }
