@@ -26,6 +26,15 @@ padding-top: 30px;}
     color: white;
     background-image: linear-gradient(orange, tomato);
     border-radius: 25px;
-    padding: 18px 21px;
-    font-weight: 700;
+    padding: 13px 18px;
+    font-weight: 500;
+}
+#s3{
+    display: flex;
+    background-image: url(img/bg\ about.png);
+    
+}
+#am{
+    padding-top:170px ;
+    padding-right: 8%;
 }
