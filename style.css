@@ -1,0 +1,12 @@
+section{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+span{color: orange;}
+#bg-1{background-image: url(img/bg-1.png);
+    
+}
+#home1{padding-top: 150px;
+      text-align: center;
+}
+#home2{
+    padding-bottom: 140px;
+    text-align: center;
+}
