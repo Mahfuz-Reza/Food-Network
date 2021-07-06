@@ -10,3 +10,22 @@ span{color: orange;}
     padding-bottom: 140px;
     text-align: center;
 }
+#s2{display: flex;}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+    padding-top: 35px;
+}
+.half-width img{width: 100%;}
+#skip{font-size: 40px;
+padding-top: 30px;}
+#s{color: #ffa500;}
+.link{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 25px;
+    padding: 18px 21px;
+    font-weight: 700;
+}
